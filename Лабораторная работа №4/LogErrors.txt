@@ -1,0 +1,4 @@
+Тип исключения: class CustomEmptyStackException
+CustomEmptyStackException: Невозможно извлечь из пустого стека.
+	at CustomStack.pop(CustomEmptyStackException.java:54)
+	at CustomStack.main(CustomEmptyStackException.java:73)
